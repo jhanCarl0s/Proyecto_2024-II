@@ -358,7 +358,7 @@
             // 
             // btn_Exportar
             // 
-            this.btn_Exportar.BackColor = System.Drawing.SystemColors.Desktop;
+            this.btn_Exportar.BackColor = System.Drawing.Color.DarkGreen;
             this.btn_Exportar.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.btn_Exportar.ForeColor = System.Drawing.Color.Black;
             this.btn_Exportar.Location = new System.Drawing.Point(174, 569);
